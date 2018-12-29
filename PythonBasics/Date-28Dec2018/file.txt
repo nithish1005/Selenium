@@ -1,0 +1,4 @@
+Hello welcome to python
+Python contains 30 keywords
+It's is high level language
+It was founded in 1990
